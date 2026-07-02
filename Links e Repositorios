@@ -38,4 +38,7 @@ https://github.com/square/javapoet/
 https://hermes.dio.me/files/assets/0bd99a9b-bd80-4329-8996-b5aaa5423a82.pptx
 
 https://github.com/digitalinnovationone/warehouse
- 
+
+Java + SQL --> Sempre use conn.CreateStatement() para evitar SQL injection
+
+
