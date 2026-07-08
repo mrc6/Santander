@@ -1,4 +1,4 @@
-
+package Singleton;
 //Singleton apressado
 
 public class SingletonLager {
