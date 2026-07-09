@@ -6,7 +6,7 @@ import Strategy.ComportamentoDefensivo;
 import Strategy.ComportamentoNormal;
 import Strategy.ComportamentoAgressivo;
 import Strategy.Robo;
-
+import Facade.Facade;
 public class Main {
 
   public static void main(String[] args) {
@@ -50,5 +50,7 @@ public class Main {
     robo.mover();
     
     // Facade
+    Facade facade = new Facade();
+    facade.migrarCliente("Lucas", "30575-730");
   }
 }
