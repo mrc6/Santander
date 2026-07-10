@@ -43,5 +43,13 @@ Java + SQL --> Sempre use conn.CreateStatement() para evitar SQL
 
 https://github.com/digitalinnovationone/jdbc-sample
 
+https://start.spring.io/
+
+https://www.jsonschema2pojo.org/
+
+viacep.com.br/ws/01001000/json/
+
+https://github.com/digitalinnovationone/lab-padroes-projeto-spring
+
 
 
